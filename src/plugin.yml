@@ -1,0 +1,6 @@
+name: BananaCakeTown
+version: 0.6
+author: codename_B
+website: http://tetragaming.com/codename_B/
+main: com.ubempire.caketown.CakeTown
+load: startup
